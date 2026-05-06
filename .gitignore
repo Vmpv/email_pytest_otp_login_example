@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -9,23 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-=======
-# Environment variables
-.env
-.env.local
-.env.*.local
-
-# Python
-__pycache__/
-.pytest_cache/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
->>>>>>> dba0835 (Initial commit)
 build/
 develop-eggs/
 dist/
@@ -38,7 +20,6 @@ parts/
 sdist/
 var/
 wheels/
-<<<<<<< HEAD
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -235,20 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-=======
-*.egg-info/
-.installed.cfg
-*.egg
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.code-workspace
-
-# OS
-.DS_Store
-Thumbs.db
->>>>>>> dba0835 (Initial commit)
